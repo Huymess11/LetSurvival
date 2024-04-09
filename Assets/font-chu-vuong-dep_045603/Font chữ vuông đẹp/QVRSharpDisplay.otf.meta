@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f92c2332171d17d4e834ced2e74dcd69
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - QVR Sharp Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12991037530ec2343912da47a0307b64, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

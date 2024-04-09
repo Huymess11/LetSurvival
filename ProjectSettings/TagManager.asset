@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Playerbullet
+  - Enermy
+  - sand
+  - ice
+  - audio
+  - mine
+  - hitbox
+  - bossBullet
+  - explore
+  - bossBoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - minimap
+  - DamageTxt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tomb
+    uniqueID: 4090772457
+    locked: 0
+  - name: enenmy
+    uniqueID: 2779719545
+    locked: 0
+  - name: players
+    uniqueID: 678665519
+    locked: 0
+  - name: stone
+    uniqueID: 1696251419
+    locked: 0
+  - name: ui
+    uniqueID: 1868558257
+    locked: 0

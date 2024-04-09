@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ba8c8207ff66a6b4082f7fe4415bd3e2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Grage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43f2894565c9b234b953491cac6caf38, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

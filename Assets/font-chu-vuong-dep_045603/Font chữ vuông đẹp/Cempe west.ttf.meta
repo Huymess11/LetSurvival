@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f73e1637d3563804e9987df00d464d5f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cempe west
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2d512bac0b09694ba6ec943af510fde, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

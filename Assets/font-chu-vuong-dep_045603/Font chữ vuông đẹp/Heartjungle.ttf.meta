@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cf49d04205205e14e84041cd65c127a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heartjungle
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fab4bcbd7d0bca54896b4f577b2fd073, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

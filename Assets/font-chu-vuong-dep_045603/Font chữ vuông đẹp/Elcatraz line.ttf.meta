@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c7c7578c30de7b349b7b5543cdd0d4b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Elcatraz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b39665e3f79597b49b449e7a83eea5e9, type: 3}
+  - {fileID: 12800000, guid: 963eb83bf67302e46af74ce5f1facd7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
